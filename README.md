@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<img src="logo.png"
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
