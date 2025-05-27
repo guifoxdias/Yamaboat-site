@@ -1,7 +1,7 @@
-<img src="logo.png"
+
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8" />
+ <img src="f2462ca6-7093-4ea5-99b1-bd2d01467b33.png"
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Yama Boat - Elétrica Naval em Bertioga-SP</title>
   <meta name="description" content="Yama Boat é especialista em elétrica e hidráulica naval em Bertioga-SP. Serviços de qualidade para sua embarcação." />
